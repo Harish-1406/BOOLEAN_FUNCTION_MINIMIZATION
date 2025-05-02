@@ -40,7 +40,7 @@ F1 = A’B’C’D’ + AC’D’ + B’CD’ + A’BCD + BC’D The terms can b
 
 **Program:**
 
-/* Program to implement the given logic function and to verify its operations in quartus using Verilog programming. 
+ Program to implement the given logic function and to verify its operations in quartus using Verilog programming. 
 ```
 module ex2(a, b, c, d, w, x, y, z, f1, f2);
  input a, b, c, d, w, x, y, z;
@@ -63,7 +63,7 @@ module ex2(a, b, c, d, w, x, y, z, f1, f2);
 Developed by:
 HARISH P K
 
-RegisterNumber: 212224040104 */
+RegisterNumber: 212224040104
 
 
 **RTL realization**
